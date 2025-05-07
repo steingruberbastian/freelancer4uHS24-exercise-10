@@ -37,3 +37,7 @@ build/
 
 ### Cypress ###
 **/cypress.env.json
+
+### VS Code ###
+.vscode/
+/src/main/resources/static/
